@@ -30,7 +30,7 @@
 								</div>
 								<div class="col-md-4 service-block">
 									<h3><a href="nlptrehab">Rehab</a></h3>
-									<p>Our rehab department is headed up by registered massage therapist Michelle Miguel, an experienced clinician who has been a vital part of our success with our athletes and clients. Her massage therapy clinic, which is located at our Cambridge facility is open to non-NLPT clients and members of the general public.
+									<p>Our rehab department is headed up by registered massage therapist Michelle Miguel. Michelle is an experienced clinician who has been a vital part of our success with our athletes and clients. Her massage therapy clinic, which is located at our Cambridge facility is open to non-NLPT clients and members of the general public.
 										<p>
 										</div>
 									</div>
@@ -64,7 +64,7 @@
 												<div class="event">
 													<h3><i class="fa fa-arrow-right fa-3" aria-hidden="true"></i>NLPTteam season begins</h3>
 													<p><small>Sept 5, 2016</small></p>
-													<p>In-season training options available for all youth sports teams.</p>						
+													<p>In-season training options available for all youth sports teams.</p>
 												</div>
 											</div>
 
