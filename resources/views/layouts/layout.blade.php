@@ -10,6 +10,7 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta id="token" name="token" value="{{csrf_token()}}">
+        <meta name="google-site-verification" content="hC4AgKYt5B0NaGuPegGmEe-Oa6Z3wOEzFyN1J8a1u_U" />
         <link href="{{ asset('/css/nlpt.css') }}" rel="stylesheet">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
         
