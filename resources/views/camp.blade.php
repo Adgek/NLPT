@@ -12,7 +12,6 @@
 				<div class="col-md-10 coaches-text">
 					<h1>Dylan Campion, BSc, R.Kin</h1>
 					<h3>Head Strength and Conditioning Coach, Stratford</h3>
-					<h5><a href="mailto:dylan@mynlpt.com?Subject=Inquiry" target="_top">dylan@mynlpt.com</a></h5>
 				</div>
 			</div>
 			<div class="row bio">

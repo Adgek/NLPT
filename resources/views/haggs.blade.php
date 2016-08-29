@@ -12,7 +12,6 @@
 				<div class="col-md-10 coaches-text">
 					<h1>Eric Hagemann, MSc, CSCS</h1>
 					<h3>Director of Training</h3>
-					<h5><a href="mailto:eric@mynlpt.com?Subject=Inquiry" target="_top">eric@mynlpt.com</a></h5>
 				</div>
 			</div>
 			<div class="row bio">

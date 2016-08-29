@@ -12,7 +12,6 @@
 				<div class="col-md-10 coaches-text">
 					<h1>Andrew Hopf</h1>
 					<h3>President & CEO</h3>
-					<h5><a href="mailto:andrew@mynlpt.com?Subject=Inquiry" target="_top">andrew@mynlpt.com</a></h5>
 				</div>
 			</div>
 			<div class="row bio">
