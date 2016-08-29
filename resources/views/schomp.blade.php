@@ -11,8 +11,8 @@
 				</div>
 				<div class="col-md-10 coaches-text">
 					<h1>Zach Schomphe</h1>
-					<h3>Team Training Coordinator / Strength and Conditioning Coach</h3>
-					<h5><a href="mailto:andrewhopf@nlptinc.com?Subject=Inquiry" target="_top">andrewhopf@nlptinc.com</a></h5>
+					<h3>Head Strength and Conditioning Coach, Cambridge</h3>
+					<h5><a href="mailto:zach@mynlpt.com?Subject=Inquiry" target="_top">zach@mynlpt.com</a></h5>
 				</div>
 			</div>
 			<div class="row bio">

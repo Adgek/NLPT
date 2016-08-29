@@ -13,13 +13,13 @@
 						<div class="col-md-6">
 							<h3>Cambridge</h3>
 							<p><i class="fa fa-home" aria-hidden="true"></i>460 Thompson Dr, Unit 4 Cambridge, ON N1T 2K8</p>
-							<p><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:andrewhopf@nlptinc.com?Subject=Inquiry" target="_top">andrewhopf@nlptinc.com</a></p>
+							<p><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@mynlpt.com?Subject=Inquiry" target="_top">info@mynlpt.com</a></p>
 							<p><i class="fa fa-phone" aria-hidden="true"></i>Phone: 519-620-9898</p>
 						</div>
 						<div class="col-md-6">
 							<h3>Stratford</h3>
 							<p><i class="fa fa-home" aria-hidden="true"></i>Stratford Rotary Complex, 353 McCarthy Dr, Stratford, ON N5A 7S7</p>
-							<p><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:andrewhopf@nlptinc.com?Subject=Inquiry" target="_top">andrewhopf@nlptinc.com</a></p>
+							<p><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@mynlpt.com?Subject=Inquiry" target="_top">info@mynlpt.com</a></p>
 							<p><i class="fa fa-phone" aria-hidden="true"></i>Phone: 519-591-1575</p>
 						</div>
 					</div>

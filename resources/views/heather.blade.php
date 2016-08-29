@@ -11,8 +11,8 @@
 				</div>
 				<div class="col-md-10 coaches-text">
 					<h1>Heather Foell, BSc</h1>
-					<h3>Adult Wellness Coordinator / Strength and Conditioning Coach</h3>
-					<h5><a href="mailto:andrewhopf@nlptinc.com?Subject=Inquiry" target="_top">andrewhopf@nlptinc.com</a></h5>
+					<h3>Adult Wellness Coordinator / NLPTfit Head Coach</h3>
+					<h5><a href="mailto:heather@mynlpt.com?Subject=Inquiry" target="_top">heather@mynlpt.com</a></h5>
 				</div>
 			</div>
 			<div class="row bio">
