@@ -8,7 +8,7 @@
 				<div class="row">
 					<div class="title-section">
 						<h1 class="title">Massage Therapy</h1>
-						<p>Please call: (519) 620-9898 or email <a href="mailto:nlpt.massagetherapy@gmail.com?Subject=Inquiry" target="_top">nlpt.massagetherapy@gmail.com</a> to book your appointment.</p>
+						<p>Please call: (519) 620-9898 or email <a href="mailto:massage@mynlpt.com?Subject=Inquiry" target="_top">massage@mynlpt.com</a> to book your appointment.</p>
 					</div>
 				</div>
 
