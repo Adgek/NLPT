@@ -15,10 +15,10 @@
 							<p>Since 2007, NLPT has been the leader in team strength and conditioning throughout the Waterloo region. Over the years we have worked with over 150 sports teams from Cambridge, Kitchener, Waterloo, Guelph, Markham, Halton, and Huron-Perth with sports ranging from hockey, ringette, football, basketball and baseball.</p>
 							<p>Specifically, we have worked with the Owen Sound Attack (2010-present; OHL Championship in 2010-2011), University of Waterloo Men’s hockey team (2006-2011), and Cambridge Winterhawks (2010-2011).</p>
 						</div>
-						<div class="text-center">
+						<!-- <div class="text-center">
 							<button type="button" class="btn btn-primary action-btn" v-on:click="showAction=true">Start the Process!</button>
 							<Actioncall :show.sync="showAction" title="NLPTteam"></Actioncall>
-						</div>
+						</div> -->
 					</div>
 					<div class="col-md-4">
 						<img class="nlptteam-picture" src="/images/team.jpg">

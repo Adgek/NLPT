@@ -15,10 +15,10 @@
 							<p>NLPTathlete is a fully-individualized training system designed to match the needs of both the athlete and the athlete’s sport. Each athlete begins with an assessment and movement screen in order to give coaches an idea exactly where the athlete stands and how to training process should begin.</p>
 						</div>
 
-						<div class="text-center">
+<!-- 						<div class="text-center">
 							<button href="#" type="button" class="btn btn-primary action-btn" v-on:click="showAction=true">Call to Action!</button>
 							<Actioncall :show.sync="showAction" title="NLPTathlete"></Actioncall>
-						</div>
+						</div> -->
 					</div>
 				
 					<div class="col-md-4">
