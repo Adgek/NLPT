@@ -254,7 +254,7 @@
 			<div class="container">
 				
 				<div class="title-section">
-					<h1 class="title">Membership</h1>
+					<h1 class="title text-center">Membership</h1>
 				</div>
 			
 				
