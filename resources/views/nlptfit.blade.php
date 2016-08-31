@@ -13,13 +13,13 @@
 						<h1>NLPTfit</h1>
 						<div class="nlptfit-blurb">
 							<p>While we are mainly known for training athletes. Our approach to training “former athletes” remains the same: assess each individual, prescribe a safe and effective training program, deliver top-notch coaching, and get <b>RESULTS</b>.</p>
-							<p>This approach to training is one of our core philosophies at NLPT, and it is the reason why we don’t offer bootcamps, classes, or prescribe general “workouts” for our clients. What’s right for one, might not be right–or safe–for another.</p>
+
 						</div>
 
-						<div class="text-center">
+						<!-- <div class="text-center">
 							<button type="button" class="btn btn-primary action-btn" v-on:click="showAction=true">Call to Action!</button>
 							<Actioncall :show.sync="showAction" title="NLPTfit"></Actioncall>
-						</div>
+						</div> -->
 					</div>
 				
 					<div class="col-md-4">
@@ -33,11 +33,55 @@
 			<div class="container">
 				<div class="row">
 					<div class="title-section">
-						<h1 class="steps-title">So you’ve signed up…now what?</h1>
-						<p>So how does our gym work? How does a program get written for you? What’s with the nutrition program? Let’s start at the beginning and then go through a typical training day at NLPT.</p>
+						<h1 class="steps-title">Program Features</h1>
+						
+						<h3>Programming and coaching</h3>
+						<p>Although our NLPTfit program is constantly evolving, we believe that any good program should prioritize quality movement skills, functional strength, high-intensity interval conditioning as its bedrocks. We believe in the “magic” of consistent hard work at the basics, and take pride in offering expert coaching to our clients.</p>
+
+						<h3>Individualization</h3>
+						<p>We will NEVER ask clients to perform any exercise that they are not prepared for or that they lack the movement capacity to perform. We expect our coaches to constantly be making adaptations to our class programs based on the needs of each client in attendance.</p>
+
+						<p>All modifications to the class template are monitored and recorded by our coaching staff so that each individual can still pursue his or her specific goals.</p>
+
+						<h3>Results tracking</h3>
+
+						<p>Results are what it’s all about and we offer consistent results testing to make sure your hard work is actually paying off.</p>
+
+						<h3>Intro assessments</h3>
+
+						<p>New clients will go through a formal assessment process to discuss their personal, athletic, and injury history, go through a movement assessment, and discuss their goals and expectations for themselves and of NLPT.</p> 
+
+						<h1>Classes offered</h1>
+
+						<h3>STRONG</h3>
+
+						<p>Will focus on general strength development through barbell, dumbbell, and bodyweight exercises. The goal with this class is to improve movement quality and your body’s capacity for force production and work. Results and progress on individual lifts will be monitored and tracked, and coaches are responsible for tailoring each workout to the individual based on their training history and movement limitations.</p>
+
+						<h3>LEAN</h3>
+
+						<p>Will focus on interval training and high intensity conditioning. The goal here is to stimulate fat-burning by revving up the metabolism. The structure of each class will change from class-to-class so that things never get stale or repetitive.</p>
+
+						<h3>TOTAL</h3>
+
+						<p>This class will involve a mix of both STRONG and LEAN, with about 20 minutes of strength work followed by 30-40 minutes of high-intensity conditioning.</p>
+
+						<h3>WILDCARD WEDNESDAY</h3>
+
+						<p>This class is designed for those that train 4-5x a week, but anyone can benefit by participating. The goal with this class is to work on movement skills, learn new exercises, improve mobility, and do some light aerobic conditioning. And if you feel like cranking it up a bit, one of our coaches will be there to assist you in setting up a workout that’s right for you.</p>
+
+						<h3>HIIT @6</h3>
+
+						<p>This is a quick, intense, 30-minute blast of HIIT (high-intensity interval training), which is one of the best bang-for-your-buck methods for getting fit and lean.</p>
+
+						<h3>OPEN GYM</h3>
+
+						<p>This is open time for clients to train as they wish or to do a class program for that day on their own. Coaches will be on site but not leading or directing workouts.</p> 
+
 					</div>
 				</div>
-				<div class="step1 step">
+			</div>
+		</div>
+				<!-- <div class="step1 step">
 					
 					<div class="row">
 						<div class="col-md-6 ">
@@ -58,9 +102,9 @@
 						<div class="col-md-5">
 							<img class="nlptfit-picture" src="/images/assessment.jpg">
 						</div>
-					</div>
-				</div>
-				<div>
+					</div> -->
+				<!-- </div> -->
+<!-- 				<div>
 					<div class="row">
 						<div class="step2 col-md-6 ">
 							<h3 class="text-center">Step #2: Program Design</h3>
@@ -98,8 +142,8 @@
 					</div>
 				</div>
 			</div>
-		</div>
-		<div class="third-section">
+		</div> -->
+<!-- 		<div class="third-section">
 			<div class="container">
 				<div class="row">
 					<div class="title-section">
@@ -126,7 +170,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 		
 		@include('partials/footer')
 	</div>
