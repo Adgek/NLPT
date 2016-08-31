@@ -253,7 +253,7 @@
 		<div class="second-section">
 			<div class="container">
 				
-				<div class="title-section">
+				<div class="title-section text-center">
 					<h1 class="title text-center">Membership</h1>
 				</div>
 			
