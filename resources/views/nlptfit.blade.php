@@ -250,20 +250,16 @@
 				</div>
 			</div>
 		</div> -->
-		<div class="third-section">
+		<div class="second-section">
 			<div class="container">
-				<div class="row">
-					<div class="title-section">
-						<h1 class="title">Membership</h1>
-					</div>
+				
+				<div class="title-section">
+					<h1 class="title">Membership</h1>
 				</div>
-				<div class="row details">
-					<div class="col-md-4 quote">
-						<h3 class="text-center" >Options</h3>
-						<p>NLPTfit runs as a monthly membership, but there are no start-up costs or cancellation fees. New clients are welcome to come and try us out for 2 weeks at no cost. After that, we charge $129/month + HST for membership.</p>
-					</div>
+			
+				
+				<p>NLPTfit runs as a monthly membership, but there are no start-up costs or cancellation fees. New clients are welcome to come and try us out for 2 weeks at no cost. After that, we charge $129/month + HST for membership.</p>
 					
-				</div>
 			</div>
 		</div>
 		

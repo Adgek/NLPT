@@ -6867,7 +6867,7 @@ button.close {
   padding-top: 5%;
 }
 .nlptfit-page .third-section {
-  min-height: 50% !important;
+  /*min-height: 50% !important;*/
   width: 100% !important;
 }
 .nlptfit-page .third-section .title-section .title {
