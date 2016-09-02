@@ -12948,24 +12948,24 @@ module.exports = {
 				}
 			},
 
-			Stratford: {
-				Fit: {
-					Monday: ['12-1 pm', '5-6:30 pm', '--'],
-					Tuesday: ['12-1 pm', '5-6:30 pm', '--'],
-					Wednesday: ['12-1 pm', '5-6:30 pm', '--'],
-					Thursday: ['12-1 pm', '5-6:30 pm', '--'],
-					Friday: ['12-1 pm', '4:30-6 pm', '--'],
-					Saturday: ['8:30-9:30 am', '--', '--']
-				},
-				Athlete: {
-					Monday: ['1-2 pm', '6:30-7:30 pm', '--'],
-					Tuesday: ['1-2 pm', '6:30-7:30 pm', '--'],
-					Wednesday: ['1-2 pm', '6:30-7:30 pm', '--'],
-					Thursday: ['1-2 pm', '6:30-7:30 pm', '--'],
-					Friday: ['1-2 pm', '--', '--'],
-					Saturday: ['9:30-10:30 am', '--', '--']
-				}
-			}
+      Stratford: {
+        Fit: {
+          Monday: ['12-1 pm', '5-6:30 pm', '--'],
+          Tuesday: ['12-1 pm', '5-6:30 pm', '--'],
+          Wednesday: ['12-1 pm', '5-6:30 pm', '--'],
+          Thursday: ['12-1 pm', '5-6:30 pm', '--'],
+          Friday: ['12-1 pm', '5-6:30 pm', '--'],
+          Saturday: ['8:30-9:30 am', '--', '--']
+        },
+        Athlete: {
+          Monday: ['3-5 pm', '--', '--'],
+          Tuesday: ['3-5 pm', '--', '--'],
+          Wednesday: ['3-5 pm', '--', '--'],
+          Thursday: ['3-5 pm', '--', '--'],
+          Friday: ['3-5 pm', '--', '--'],
+          Saturday: ['9:30-10:30 am', '--', '--']
+        }
+      }
 		};
 	},
 
