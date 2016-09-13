@@ -211,20 +211,20 @@
 
 				Cambridge: {
 					Fit: {
-						Monday: ['6-9 am','12-1 pm','5-6 pm'],
-						Tuesday: ['6-9 am','2-3 pm','5-6 pm'],
-						Wednesday: ['6-9 am','12-1 pm','5-6 pm'],
-						Thursday: ['6-9 am','2-3 pm','5-6 pm'],
-						Friday: ['6-9 am','12-1 pm','5-6 pm'],
-						Saturday: ['8-10 am','--','--'],
+						Monday: ['6-10:30 am','12-1 pm','5-6:30 pm'],
+						Tuesday: ['6-9 am','12-1 pm','5-6:30 pm'],
+						Wednesday: ['6-10:30 am','12-1 pm','5-6:30 pm'],
+						Thursday: ['6-9 am','12-1 pm','5-6:30 pm'],
+						Friday: ['6-10:30 am','12-1 pm','5-6:30 pm'],
+						Saturday: ['8-9 am','--','--'],
 					},
 					Athlete: {
-						Monday: ['4-7 pm','--','--'],
-						Tuesday: ['4-7 pm','--','--'],
-						Wednesday: ['4-7 pm','--','--'],
-						Thursday: ['4-7 pm','--','--'],
-						Friday: ['4-6 pm','--','--'],
-						Saturday: ['10-12 pm','--','--'],
+						Monday: ['3-6 pm','--','--'],
+						Tuesday: ['3-6 pm','--','--'],
+						Wednesday: ['3-6 pm','--','--'],
+						Thursday: ['3-6 pm','--','--'],
+						Friday: ['3-6 pm','--','--'],
+						Saturday: ['9-10 am','--','--'],
 					}
 				},
 

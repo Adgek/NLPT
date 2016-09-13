@@ -39,9 +39,7 @@ Route::get('/nlptrehab', function () {
 	return view('nlptrehab');
 });
 
-Route::get('/blogs', function () {
-	return view('blogs');
-});
+Route::get('/blogs', 'BlogController@getBlogPage');
 
 Route::get('/contact', function () {
 	return view('contact');
