@@ -15,9 +15,9 @@
 							<p>While we are mainly known for training athletes. Our approach to training “former athletes” remains the same: assess each individual, prescribe a safe and effective training program, deliver top-notch coaching, and get <b>RESULTS</b>.</p>
 
 						</div>
-						<div class="container">
+				<!-- 		<div class="container">
 							<div class="row">
-								<div class="title-section">
+								<div class="title-section"> -->
 									<h1 class="steps-title">Program Features</h1>
 									
 									<h4 class="text-center">Programming and coaching</h4>
@@ -36,9 +36,9 @@
 
 									<p>New clients will go through a formal assessment process to discuss their personal, athletic, and injury history, go through a movement assessment, and discuss their goals and expectations for themselves and of NLPT.</p>  
 
-								</div>
+				<!-- 				</div>
 							</div>
-						</div>
+						</div> -->
 
 						<div class="text-center">
 							<button type="button" class="btn btn-primary action-btn" v-on:click="showAction=true">Contact us to get started!</button>
