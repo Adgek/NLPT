@@ -53,9 +53,6 @@
 				
 			</div>
 		</div>
-		<div class="second-section">
-			
-		</div>
 		<div class="third-section">
 			<div class="container">
 				<h1 class="text-center">Classes offered</h1>
