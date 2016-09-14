@@ -54,7 +54,7 @@
 							</div>
 						</div>
 						<div class="col-md-5 pillar">
-							<img class="nlptteam-picture" src="/images/train.jpg">
+							<img class="nlptteam-picture" src="/images/team.jpg">
 						</div>
 					</div>
 					<div class="row">
