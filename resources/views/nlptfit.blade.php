@@ -18,6 +18,8 @@
 				<!-- 		<div class="container">
 							<div class="row">
 								<div class="title-section"> -->
+									<p></p>
+									<p></p>
 									<h1 class="steps-title">Program Features</h1>
 									
 									<h4 class="text-center">Programming and coaching</h4>
@@ -53,6 +55,8 @@
 				
 			</div>
 		</div>
+											<p></p>
+									<p></p>
 		<div class="third-section">
 			<div class="container">
 				<h1 class="text-center">Classes offered</h1>
@@ -256,7 +260,7 @@
 				</div>
 			
 				
-				<p>NLPTfit runs as a monthly membership, but there are no start-up costs or cancellation fees. New clients are welcome to come and try us out for 2 weeks at no cost. After that, we charge $129/month + HST for membership.</p>
+				<p>NLPTfit runs as a monthly membership, but there are no start-up costs or cancellation fees. New clients are welcome to come and try us out for 2 weeks at no cost. After that, we charge $129/month + HST for membership and you are welcome to attend an unlimited number of classes per week.</p>
 					
 			</div>
 		</div>
