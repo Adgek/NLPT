@@ -13,15 +13,15 @@
 						<h1>NLPTteam</h1>
 						<div class="nlptteam-blurb">
 							<p>Since 2007, NLPT has been the leader in team strength and conditioning throughout the Waterloo region. Over the years we have worked with over 150 sports teams from Cambridge, Kitchener, Waterloo, Guelph, Markham, Halton, and Huron-Perth with sports ranging from hockey, ringette, football, basketball and baseball.</p>
-							<p>Specifically, we have worked with the Owen Sound Attack (2010-present; OHL Championship in 2010-2011), University of Waterloo Men’s hockey team (2006-2011), and Cambridge Winterhawks (2010-2011).</p>
+							<p>Scroll down to learn more about our team training approach, philosophy, and services.</p>
 						</div>
-						<!-- <div class="text-center">
-							<button type="button" class="btn btn-primary action-btn" v-on:click="showAction=true">Start the Process!</button>
+						<div class="text-center">
+							<button type="button" class="btn btn-primary action-btn" v-on:click="showAction=true">Contact us to get started!</button>
 							<Actioncall :show.sync="showAction" title="NLPTteam"></Actioncall>
-						</div> -->
+						</div>
 					</div>
 					<div class="col-md-4">
-						<img class="nlptteam-picture" src="/images/team.jpg">
+						<img class="nlptteam-picture" src="/images/team-plans.jpg">
 					</div>
 					
 				</div>
@@ -102,13 +102,19 @@
 				</div>
 				<div class="row">
 					<div class="col-md-4 option">
-						<h3 class="text-center">Standard Season Plan</h3>
-						<p>Our season plan is designed to cover your team from the fall all the way through playoffs. The program runs from the beginning of September all the way up until the beginning of April and includes more than just a weekly workout. All players are entitled to an extra training session per week during our NLPTathlete hours, where they are given an individualized training plan and are coached in a much lower coach to athlete ratio compared to their weekly team workout.</p>
-						<p> Additionally, all players will receive our athlete nutrition handbook that covers everything from the building blocks of a sound diet, to nutritional strategies that young athletes will be able to implement whether at home, at school, or on the road. Teams that enroll in our Season Plan will also get to attend a nutrition seminar put on at NLPT at some point during the year.</p>
+						<h3 class="text-center">Flex Plan</h3>
+						<p>With this option, teams choose when and how often they train. There is no minimum or maximum of now many sessions that can be booked--it all depends on your schedule. Historically, teams typically decide train with us once per week during their season. </p>
+						<p>The cost is $140 + HST per session (1-hour).</p>
 					</div>
 					<div class="col-md-4 option">
-						<h3 class="text-center">Elite Season Plan</h3>
-						<p>Our elite option is an opt-in program for players that want to take their off-ice commitment to the next level. In addition to all of the benefits in our Standard Season Plan, players that choose our Elite option are entitled to a 3rd weekly training session, nutrition coaching, a free item of NLPT apparel, and a 20% discount off all Biosteel products.</p>
+						<h3 class="text-center">Elite Plan</h3>
+						<p>Our Elite Season Plan is designed to cover your team from the fall all the way through playoffs. The program runs from the beginning of September all the way up until the beginning of April. No need to count sessions either! Your team is welcome to continue training with us right up until the end of playoffs.</p>
+						<p> This option includes more than just a weekly workout. All players are entitled to a second training session per week during our NLPTathlete hours, where they are given an individualized training plan and are coached in a much lower coach to athlete ratio compared to their weekly team workout. Additionally, all players will receive our athlete nutrition handbook that covers everything from the building blocks of a sound diet, to nutritional strategies that young athletes will be able to implement whether at home, at school, or on the road. Teams that enroll in our Season Plan will also get to attend a nutrition seminar put on at NLPT at some point during the year.</p>
+						<p>The cost for this plan is $399 per player per year.</p>
+					</div>
+					<div class="col-md-4 option">
+						<h3 class="text-center">Elite Plus Plan</h3>
+						<p>Our elite plus option is an opt-in program for players that are already training with their team, but want to take their off-ice commitment to the next level. In addition to all of the benefits in our Elite Season Plan, players that choose our Elite option are entitled to a 3rd weekly training session, nutrition coaching, a free item of NLPT apparel, and a 20% discount off all Biosteel products.</p>
 						<p>
 							 The estimated value of this plan is $920:
 							 <ul>
@@ -117,14 +123,10 @@
 								<li>$77 estimated savings from a monthly tub of Biosteel High Performance Sports Drink</li>
 								<li>$30 savings of an NLPT shirt or hat</li>
 							</ul>
-							But we’re offering this plan for only $300 for the year, which breaks down to about $10 per week and represents a savings of 67%
+							But we’re offering this plan for only $300 per player for the year, which breaks down to about $10 per week and represents a savings of 67%! 
 						</p>
 					</div>
-					<div class="col-md-4 option">
-						<h3 class="text-center">Flex Plan</h3>
-						<p>With this option, teams choose when and how often they train. There is no minimum or maximum of now many sessions that can be booked.</p>
-						<img class="nlptteam-picture" src="/images/team-plans.jpg">
-					</div>
+
 				</div>
 			</div>
 		</div>
