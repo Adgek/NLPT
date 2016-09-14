@@ -15,32 +15,31 @@
 							<p>While we are mainly known for training athletes. Our approach to training “former athletes” remains the same: assess each individual, prescribe a safe and effective training program, deliver top-notch coaching, and get <b>RESULTS</b>.</p>
 
 						</div>
-				<!-- 		<div class="container">
-							<div class="row">
-								<div class="title-section"> -->
-									<p></p>
-									<p></p>
-									<h1 class="steps-title">Program Features</h1>
-									
-									<h4 class="text-center">Programming and coaching</h4>
-									<p>Although our NLPTfit program is constantly evolving, we believe that any good program should prioritize quality movement skills, functional strength, high-intensity interval conditioning as its bedrocks. We believe in the “magic” of consistent hard work at the basics, and take pride in offering expert coaching to our clients.</p>
 
-									<h4 class="text-center">Individualization</h4>
-									<p>We will NEVER ask clients to perform any exercise that they are not prepared for or that they lack the movement capacity to perform. We expect our coaches to constantly be making adaptations to our class programs based on the needs of each client in attendance.</p>
+						<p></p>
+						<p></p>	
+						<p></p>
+						<p></p>
+						<p></p>
+						<p></p>
+						<h1 class="steps-title">Program Features</h1>
+						
+						<h4 class="text-center">Programming and coaching</h4>
+						<p>Although our NLPTfit program is constantly evolving, we believe that any good program should prioritize quality movement skills, functional strength, high-intensity interval conditioning as its bedrocks. We believe in the “magic” of consistent hard work at the basics, and take pride in offering expert coaching to our clients.</p>
 
-									<p>All modifications to the class template are monitored and recorded by our coaching staff so that each individual can still pursue his or her specific goals.</p>
+						<h4 class="text-center">Individualization</h4>
+						<p>We will NEVER ask clients to perform any exercise that they are not prepared for or that they lack the movement capacity to perform. We expect our coaches to constantly be making adaptations to our class programs based on the needs of each client in attendance.</p>
 
-									<h4 class="text-center">Results tracking</h4>
+						<p>All modifications to the class template are monitored and recorded by our coaching staff so that each individual can still pursue his or her specific goals.</p>
 
-									<p>Results are what it’s all about and we offer consistent results testing to make sure your hard work is actually paying off.</p>
+						<h4 class="text-center">Results tracking</h4>
 
-									<h4 class="text-center">Intro assessments</h4>
+						<p>Results are what it’s all about and we offer consistent results testing to make sure your hard work is actually paying off.</p>
 
-									<p>New clients will go through a formal assessment process to discuss their personal, athletic, and injury history, go through a movement assessment, and discuss their goals and expectations for themselves and of NLPT.</p>  
+						<h4 class="text-center">Intro assessments</h4>
 
-				<!-- 				</div>
-							</div>
-						</div> -->
+						<p>New clients will go through a formal assessment process to discuss their personal, athletic, and injury history, go through a movement assessment, and discuss their goals and expectations for themselves and of NLPT.</p>  
+
 
 						<div class="text-center">
 							<button type="button" class="btn btn-primary action-btn" v-on:click="showAction=true">Contact us to get started!</button>
@@ -55,8 +54,12 @@
 				
 			</div>
 		</div>
-											<p></p>
-									<p></p>
+		<p></p>
+		<p></p>	
+		<p></p>
+		<p></p>
+		<p></p>
+		<p></p>
 		<div class="third-section">
 			<div class="container">
 				<h1 class="text-center">Classes offered</h1>
