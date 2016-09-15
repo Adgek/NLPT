@@ -19,7 +19,7 @@ class Emailer extends Controller
     	Mail::send('emails.Inquiry', ['data' => $request], function ($m) use ($system) {
             $m->from('nlptWebmaster@gmail.com', $system);
 
-            $m->to('andrewhopf@nlptinc.com', 'Inquiry')->subject('New NLPT Inquiry');
+            $m->to('info@mynlpt.com', 'Inquiry')->subject('New NLPT Inquiry');
         }); 
 
         return (new Response("Success!",201));

@@ -15,10 +15,10 @@
 							<p>Athletes between the ages of 10 to 13 fall into our Youth Development Program category. While these young athletes still get treated the same as any other athlete at NLPT, we approach their programming with a slightly different philosophy than our older clientele.</p>
 
 						</div>
-<!-- 						<div class="col-md-4 col-md-offset-1 text-center">
+						<div class="col-md-4 col-md-offset-1 text-center">
 							<button type="button" class="btn btn-primary action-btn" v-on:click="showAction=true">How to get Started?</button>
 							<Actioncall :show.sync="showAction" title="NLPTyouth"></Actioncall>
-						</div> -->
+						</div>
 						<div class="col-md-7 ">
 							<img class="nlptyouth-picture" src="/images/youth.jpg">
 						</div>
