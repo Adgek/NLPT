@@ -88,7 +88,7 @@
 
 				<p>This is open time for clients to train as they wish or to do a class program for that day on their own. Coaches will be on site but not leading or directing workouts.</p>
 
-				<h3 class="text-center">Class Schedule</h3>
+				<h3 class="text-center">Cambridge Class Schedule</h3>
 
 				<table class="table table-bordered table-striped table-hover">
 					  <tbody><tr>
@@ -152,12 +152,78 @@
 					    <td></td>
 					  </tr>
 					  <tr>
-					    <td>5-6PM</td>
+					    <td>5-6pm</td>
 					    <td>OPEN GYM</td>
 					    <td>OPEN GYM</td>
 					    <td>OPEN GYM</td>
 					    <td>OPEN GYM</td>
 					    <td>OPEN GYM</td>
+					    <td></td>
+					    <td></td>
+					  </tr>
+					  <tr>
+					    <td>6-6:30pm</td>
+					    <td>HIIT @6</td>
+					    <td>No class</td>
+					    <td>HIIT @6</td>
+					    <td>HIIT @6</td>
+					    <td>No class</td>
+					    <td></td>
+					    <td></td>
+					  </tr>
+					</tbody>
+				</table>
+
+				<h3 class="text-center">Stratford Class Schedule</h3>
+
+				<table class="table table-bordered table-striped table-hover">
+					  <tbody><tr>
+					    <th></th>
+					    <th>MONDAY</th>
+					    <th>TUESDAY</th>
+					    <th>WEDNESDAY</th>
+					    <th>THURSDAY</th>
+					    <th>FRIDAY</th>
+					    <th>SATURDAY</th>
+					    <th>SUNDAY</th>
+					  </tr>
+					  <tr>
+					    <td>8:30-9:30am</td>
+					    <td></td>
+					    <td></td>
+					    <td></td>
+					    <td></td>
+					    <td></td>
+					    <td>LEAN</td>
+					    <td></td>
+					  </tr>
+					  <tr>
+					    <td>12-1pm</td>
+					    <td>STRONG</td>
+					    <td>LEAN</td>
+					    <td>WILDCARD WEDNESDAY</td>
+					    <td>STRONG</td>
+					    <td>LEAN</td>
+					    <td></td>
+					    <td></td>
+					  </tr>
+					  <tr>
+					    <td>5-6pm</td>
+					    <td>OPEN GYM</td>
+					    <td>OPEN GYM</td>
+					    <td>OPEN GYM</td>
+					    <td>OPEN GYM</td>
+					    <td>OPEN GYM</td>
+					    <td></td>
+					    <td></td>
+					  </tr>
+					  <tr>
+					    <td>6-6:30pm</td>
+					    <td>HIIT @6</td>
+					    <td>No class</td>
+					    <td>HIIT @6</td>
+					    <td>HIIT @6</td>
+					    <td>No class</td>
 					    <td></td>
 					    <td></td>
 					  </tr>
